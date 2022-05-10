@@ -1,8 +1,8 @@
 # F22labs-Clone 
 
 **In this clone work, I'm learn about**
-
-*Mobile-First Approach* <br>
-*Absoulte units (em, rem, percentages, auto)*
-
+<ul>
+<li>*Mobile-First Approach* </li>
+<li>*Absoulte units (em, rem, percentages, auto)*</>
+</ul>
 
