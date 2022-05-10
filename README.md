@@ -4,6 +4,6 @@
 
 
 *- Mobile-First Approach* <br>
-*- Absoulte units (em, rem, percentages, auto)*
+*- Absoulte units (em, rem, percentage, auto)*
 
 
